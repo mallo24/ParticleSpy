@@ -1,4 +1,4 @@
-# ParticleSpy Dashboard (Segmentation and analysis)
+# Development of a dashboard to visualize nanoparticle analysis from a transmission electron microscope (ParticleSpy Dashboard).
 # Objectives:
 <br />1- Linking the ParticleSpy functionalities to the dashboard.
 <br />1.1- Particle segmentation.
