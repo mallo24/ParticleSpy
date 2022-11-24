@@ -8,6 +8,6 @@
 <br />2- Providing interactive features between elements.
 <br />3- Enable the dashboard to update automatically upon the detection of an acquired image landing in a directory.
 # Key computing skills:
-<br /> Python and associated scientific libraries (numpy, matplotlib).
-<br /> Image analysis and machine learning techniques.
-<br /> Using Dash by plotly library in Python to develop the dashboard (https://plotly.com/dash/).
+<br /> 1- Python and associated scientific libraries (numpy, matplotlib).
+<br /> 2- Image analysis and machine learning techniques.
+<br /> 3- Using Dash by plotly library in Python to develop the dashboard (https://plotly.com/dash/).
